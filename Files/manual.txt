@@ -1,0 +1,11 @@
+User Manual:
+
+There’s a file named “limits.txt” which we got from a fake doctor, in which there are the portion limits for each food category, you can change or reset this limits to your default settings any time you want from the main menu.
+
+You can access the food menu from the main menu any time you want, in there you can see what products you can eat, which category do they belong to, the size of one portion of each product and the calories that one portion contains.
+
+You must register any product you consume; you must enter the name of any product in the menu, then you can choose between registering a quantity or the amount of portions you consumed, the amount of portions and the calories consumed will be added to your current consumption stats, which you can also access through the main menu any time you want.
+
+You can reset your current stats any time you want from the main menu, this will reset to 0 the consumed portions in each category and the total amount of calories consumed.
+
+Your summary shows you the amount of portions you have consumed in each category and the total calories you’ve consumed, this summary will be printed into a file named “summary.txt” which will be overwritten each time you exit the app.

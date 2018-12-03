@@ -1,0 +1,12 @@
+Ro
+
+3.0 of 6.0 portions of Fruit.
+0.0 of 2.0 portions of Dairy Products.
+0.0 of 2.0 portions of Legumes.
+0.0 of 2.0 portions of Sugars.
+0.0 of 4.0 portions of Products of Animal Origin.
+0.0 of 6.0 portions of Vegetables.
+0.0 of 3.0 portions of Oils.
+0.0 of 4.0 portions of Cereals.
+
+Total calories:	360.0
